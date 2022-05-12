@@ -1,5 +1,5 @@
 # Comprendiendo la Wikipedia
-*La mayoría de la información de esta sesión ha sido directamente extraída cuidadósamente de Wikipedia*
+*La mayoría de la información de esta sesión ha sido directamente extraída cuidadosamente de Wikipedia*
 
 ---
 ## 1. La Web 2.0

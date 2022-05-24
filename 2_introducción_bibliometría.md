@@ -157,3 +157,12 @@ De manera más avanzada, existen también **suites bibliométricas** que incluye
 * Arroyo-Machado, Wenceslao. (2021). Cómo no hacer un análisis bibliométrico. Zenodo. https://doi.org/10.5281/zenodo.5624316
 
 * Pranckutė, R. (2021). Web of Science (WoS) and Scopus: The titans of bibliographic information in today’s academic world. Publications, 9(1), 12. https://doi.org/10.3390/publications9010012
+
+---
+
+# Información
+<div class="alert alert-block alert-info">
+    <b>Autor:</b> Wenceslao Arroyo-Machado</br>
+    <b>Fecha de actualización:</b> 24/05/2022</br>
+    <b>GitHub:</b> <a href="https://github.com/Wences91/teaching">https://github.com/Wences91/teaching</a>
+</div>

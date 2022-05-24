@@ -42,7 +42,7 @@ Por otro lado, al introducir términos de busqueda, podemos manipular dichas cad
 ## 2. Búsquedas bibliográficas
 En este caso la búsqueda está centrada en las dos principales y tradicionales bases de datos bibliográficas: *Web of Science* y *Scopus*. Aunque existe todo un abanico de alternativas y muchos de los aspecto vistos aquí son extrapolables a ellas.
 
-Tabla comparativa de Scopus y Web of Science (Pranckutė, 2021).
+Tabla comparativa de la cobertura de Scopus y Web of Science (Pranckutė, 2021).
 ![Tabla comparativa de Scopus y Web of Science](https://raw.githubusercontent.com/Wences91/teaching/main/images/introducci%C3%B3n_bibliometr%C3%ADa/tabla_comparativa.png)
 
 
@@ -93,6 +93,9 @@ Por ejemplo, para buscar publicaciones de Wikipedia relativas a las Ciencias Soc
 Con independencia de la búsqueda efectuada, los resultados serán mostrados en una página que nos permite filtrar más los resultados.
 
 Es habitual encontrar una estructura común en la interfaz de resultados, ofreciendo a la izquierda diferentes opciones de filtrado que permiten refinar más los resultados de dicha búsqueda **incluyendo** o **excluyendo** elementos.
+
+Filtros de búsqueda de Scopus
+![Filtros de Scopus](https://raw.githubusercontent.com/Wences91/teaching/main/images/introducci%C3%B3n_bibliometr%C3%ADa/scopus_filtros.png)
 
 ### 2.4. El historial de búsqueda
 Tras realizar diferentes pruebas en cualquier momento puedes rescatar alguna de ellas.

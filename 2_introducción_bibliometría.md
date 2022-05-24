@@ -7,28 +7,28 @@ Es crucial en un análisis bibliométrico realizar una correcta búsqueda. Pese 
 De manera general el proceso de búsqueda plantea los siguientes pasos:
 1. **¿Qué quieres buscar?** - Elaboración de una pregunta
 2. **¿Dónde vas a buscar?** - Selección de una base de datos (cobertura, sesgo, especialización...)
-3. **Consulta** - Elaboración de la búsqueda
+3. **Consulta** - Construcción de la búsqueda
 4. **Depura la consulta** - Ajuste y repetición de la consulta
 
 Resueltos los dos primeros pasos llega el turno de la consulta en la base de datos. Esta precisa de una correcta estrategia y por lo general requiere de varios intentos, pruebas y comprobaciones antes de dar con la más adecuada. **Nunca te conformes a la primera**.
 
-No va a ser lo habitual que nuestra **ecuación de consulta** esté conformada de un único término o campo de búsqueda, suelen intervenir diferentes elementos. Para elaborar dicha consulta existe todo un lenguaje en el que se suele encontrar:
-* **Operadores de campo** - Permiten indicar el campo exacto en el que se busca un término. Aunque pueden existir elementos comunes, cada buscador cuenta con campos especificos.
-* **Operadores booleanos** - Común a casi todos los buscadores y que es crucial dominar.
+No va a ser lo habitual que nuestra **ecuación de consulta** esté conformada de un único término o campo de búsqueda, suelen intervenir diferentes elementos. Para elaborar dicha consulta existe todo un lenguaje en el que vas a encontrar:
+* **Operadores de campo** - Permiten indicar el campo exacto del regisro bibliográfico en el que se busca un término. Aunque pueden existir elementos comunes, cada buscador dispone de campos especificos.
+* **Operadores booleanos** - Común a casi todos los buscadores, permiten combinar operadores de campo y términos de búsqueda. Es crucial dominarlos.
 * **Otros operadores comunes** - Junto a los booleanos, la mayoría suelen permitir su uso.
 
 ### 1.2. Operadores booleanos
 Estos operadores están basados en el álgebra de Boole y permite hacer búsqueda precisas indicando en nuestra ecuación de consulta cómo han de combinarse dos o más elementos de la consulta.
 
 Los operadores básicos son tres:
-* **OR** - booleano de unión. Devuelve registros que cumplan uno o ambos criterios. Búsquedas poco restrictivas.
-* **AND** - booleano de intersección. Devuelve solo los registros que cumplen ambos criterios. Búsquedas restrictivas.
-* **NOT** - booleano de exclusión. Devuelve los registros que cumplen el primer critero pero no el segundo. Búsquedas restrictivas.
+* **OR** - Booleano de **unión**. Devuelve registros que cumplan uno o ambos criterios. Búsquedas poco restrictivas.
+* **AND** - Booleano de **intersección**. Devuelve solo los registros que cumplen ambos criterios. Búsquedas restrictivas.
+* **NOT** - Booleano de **exclusión**. Devuelve los registros que cumplen el primer critero pero no el segundo. Búsquedas restrictivas.
 
-Operadores booleanos
+Operadores booleanos OR, AND y NOT
 ![Álgebra de Boole](https://raw.githubusercontent.com/Wences91/teaching/main/images/introducci%C3%B3n_bibliometr%C3%ADa/boole.png)
 
-Pero cuidado, aunque se usen en prácticamente casi todos los buscadores, puede haya variaciones en su denominación. Por ejemplo, **NOT** puede aparecer así o como **-**.
+Pero cuidado, aunque se usen en prácticamente casi todos los buscadores, puede haya variaciones en su denominación o que su uso se realice mediante símbolos. Por ejemplo, **NOT** puede aparecer como **-** y **AND** como **&**.
 
 ### 1.3. Otros operadores comunes
 En línea con los los operadores booleanos existen otros que también suelen ser comunes en los buscadores y que resultan imprescindibles. De manera general se puede destacar:
@@ -154,8 +154,8 @@ De manera más avanzada, existen también **suites bibliométricas** que incluye
 * [Scopus Support Center](https://service.elsevier.com/app/overview/scopus/)
 
 ## Referencias
+* Alba-Ruiz, R. (2020). Aprender a elaborar ecuaciones de búsqueda bibliográficas. YouTube. https://www.youtube.com/watch?v=m0Rrl2qTUZc
 * Arroyo-Machado, Wenceslao. (2021). Cómo no hacer un análisis bibliométrico. Zenodo. https://doi.org/10.5281/zenodo.5624316
-
 * Pranckutė, R. (2021). Web of Science (WoS) and Scopus: The titans of bibliographic information in today’s academic world. Publications, 9(1), 12. https://doi.org/10.3390/publications9010012
 
 ---

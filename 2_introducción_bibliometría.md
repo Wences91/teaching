@@ -1,16 +1,16 @@
 # Introducción a las principales bases de datos bibliométricas (Web of Science y Scopus)
 
 ## 1. Lenguaje de consulta
-Es crucial en un análisis bibliométrico realizar una correcta búsqueda. Pese a las facilidades que ofrecen muchas de las interfaces de búsqueda de las bases de datos bibliográficas, este proceso requiere especial atención. Una incorrecta búsqueda puede conducir a datos con mucho ruido, poco o demasiado exhaustivos...
+Es crucial en un análisis bibliométrico realizar una correcta búsqueda bibliográfica. Pese a las facilidades que ofrecen muchas de las interfaces de búsqueda de las bases de datos bibliográficas, este proceso requiere especial atención. Una incorrecta búsqueda puede conducir a datos con mucho ruido, poco o demasiado exhaustivos...
 
 ### 1.1. El proceso de búsqueda
 De manera general el proceso de búsqueda plantea los siguientes pasos:
-1. **¿Qué quieres buscar?** - Elaboración de una pregunta
-2. **¿Dónde vas a buscar?** - Selección de una base de datos (cobertura, sesgo, especialización...)
-3. **Consulta** - Construcción de la búsqueda
-4. **Depura la consulta** - Ajuste y repetición de la consulta
+1. **¿Qué quieres buscar?** - Elaboración de una pregunta.
+2. **¿Dónde vas a buscar?** - Selección de una base de datos (cobertura, sesgo, especialización...).
+3. **Consulta** - Construcción de la búsqueda.
+4. **Depura la consulta** - Ajuste y repetición de la consulta.
 
-Resueltos los dos primeros pasos llega el turno de la consulta en la base de datos. Esta precisa de una correcta estrategia y por lo general requiere de varios intentos, pruebas y comprobaciones antes de dar con la más adecuada. **Nunca te conformes a la primera**.
+Resueltos los dos primeros pasos, llega el turno de la consulta en la base de datos. Esta precisa de una correcta estrategia y por lo general requiere de varios intentos, pruebas y comprobaciones antes de dar con la más adecuada. **Nunca te conformes a la primera**.
 
 No va a ser lo habitual que nuestra **ecuación de consulta** esté conformada de un único término o campo de búsqueda, suelen intervenir diferentes elementos. Para elaborar dicha consulta existe todo un lenguaje en el que vas a encontrar:
 * **Operadores de campo** - Permiten indicar el campo exacto del regisro bibliográfico en el que se busca un término. Aunque pueden existir elementos comunes, cada buscador dispone de campos especificos.
@@ -18,7 +18,7 @@ No va a ser lo habitual que nuestra **ecuación de consulta** esté conformada d
 * **Otros operadores comunes** - Junto a los booleanos, la mayoría suelen permitir su uso.
 
 ### 1.2. Operadores booleanos
-Estos operadores están basados en el álgebra de Boole y permite hacer búsqueda precisas indicando en nuestra ecuación de consulta cómo han de combinarse dos o más elementos de la consulta.
+Estos operadores están basados en el álgebra de Boole y permite hacer búsquedas precisas indicando en nuestra ecuación de consulta cómo han de combinarse dos o más elementos de la misma.
 
 Los operadores básicos son tres:
 * **OR** - Booleano de **unión**. Devuelve registros que cumplan uno o ambos criterios. Búsquedas poco restrictivas.
@@ -32,11 +32,11 @@ Pero cuidado, aunque se usen en prácticamente casi todos los buscadores, puede 
 
 ### 1.3. Otros operadores comunes
 En línea con los los operadores booleanos existen otros que también suelen ser comunes en los buscadores y que resultan imprescindibles. De manera general se puede destacar:
-* **()** - los paréntesis hacen posible agrupar operadores cuando la ecuación de consulta involucra más de uno.
+* **()** - Los paréntesis hacen posible agrupar operadores cuando la ecuación de consulta involucra más de uno.
 
 Por otro lado, al introducir términos de busqueda, podemos manipular dichas cadenas para hacerlas más o menos restrictivas con:
-* **""** - las comillas permiten buscar cadenas de texto exactas.
-* **\*** - gracias al asterisco se puede llevar a cabo el truncamiento de uno o varios caracteres.
+* **""** - Las comillas permiten buscar cadenas de texto exactas.
+* **\*** - Gracias al asterisco se puede llevar a cabo el truncamiento de uno o varios caracteres.
 
 
 ## 2. Búsquedas bibliográficas
@@ -48,13 +48,16 @@ Tabla comparativa de la cobertura de Scopus y Web of Science (Pranckutė, 2021).
 
 ### 2.1. Primeros pasos
 La mayoría de bases de datos bibliográficas disponen de dos tipos de búsquedas:
-* **Busqueda simple**
-* **Busqueda avanzada**
+* **Búsqueda simple**
+* **Búsqueda avanzada**
+* **Búsqueda en API**
 
-Por defecto, veremos en la mayoría de ocasiones la búsqueda simple al entrar en las bases de datos bibliográficas. Esta es una busqueda más guiada en la que la interfaz nos facilita la consulta mediante opciones interactivas, por ejemplo con diferentes cajas de búsqueda para cada campo de búsqueda y la posibilidad de seleccionar con el ratón el operador booleano que los conecta. La búsqueda avanzada consiste en una única caja de consulta en la que se introduce la ecuación de consulta completa incluyendo tanto los campos y términos como los operadorer.
+Por defecto, veremos en la mayoría de ocasiones la búsqueda simple al entrar en las bases de datos bibliográficas. Esta es una busqueda más guiada, en la que la interfaz nos facilita la consulta mediante opciones interactivas, por ejemplo con diferentes cajas de búsqueda para cada campo de búsqueda y la posibilidad de seleccionar con un click el operador booleano que los conecta. La búsqueda avanzada consiste en una única caja de consulta en la que se introduce la ecuación de consulta completa incluyendo tanto los campos y términos como los operadorer. Fuera de la interfaz de la aplicación web se encuentran las APIs, en las cuales se pueden llevar búsquedas mucho más precisas y aplicando la misma ecuación que en la avanzada.
 
 Diferencia entre la búsqueda simple y avanzada en Scopus
 ![Búsqueda simple y avanzada](https://raw.githubusercontent.com/Wences91/teaching/main/images/introducci%C3%B3n_bibliometr%C3%ADa/busqueda_simple_avanzada.png)
+
+**Tip:** Puedes transformar la búsqueda simple en avanzada.
 
 En el caso concreto de *Web of Science*, se pueden filtrar las bases de datos que se usan en la búsqueda. Presta atención a ello, porque los campos de búsqueda o filtros pueden variar. Por lo general usa la **Web of Science Core Collection**, dentro de la cual puedes seleccionar varias bases de datos en específico, siendo las principales:
 * Science Citation Index Expanded (SCI)
@@ -143,9 +146,11 @@ En ambos casos se pueden llevar a cabo análisis a nivel de institución, aunque
 Datos de la producción de la Universidad de Granada en Scopus
 ![Beamplot de Web of Science](https://raw.githubusercontent.com/Wences91/teaching/main/images/introducci%C3%B3n_bibliometr%C3%ADa/scopus_ugr.png)
 
+### 4.4. Revistas
+*Scopus* incluye una opción específica para llevar a cabo comparativas entre revistas. Pero, cada una de las bases de datos cuenta con sus propios índices de revistas con diferentes indicadors.
 
 ### 4. Suites bibliométricas
-De manera más avanzada, existen también **suites bibliométricas** que incluyen muchas más opciones en este sentido e incorporan toda una colección de indicadores. El de Web of Science es InCites y el de Scopus es SciVal.
+De manera más avanzada, existen también **suites bibliométricas** que incluyen muchas más opciones en este sentido e incorporan toda una colección de indicadores. El de *Web of Science* es **InCites** y el de *Scopus* es **SciVal**.
 
 
 
@@ -156,6 +161,8 @@ De manera más avanzada, existen también **suites bibliométricas** que incluye
 ## Referencias
 * Alba-Ruiz, R. (2020). Aprender a elaborar ecuaciones de búsqueda bibliográficas. YouTube. https://www.youtube.com/watch?v=m0Rrl2qTUZc
 * Arroyo-Machado, Wenceslao. (2021). Cómo no hacer un análisis bibliométrico. Zenodo. https://doi.org/10.5281/zenodo.5624316
+* Gusenbauer, M. (2022). Search where you will find most: Comparing the disciplinary coverage of 56 bibliographic databases. Scientometrics, 1-63. https://doi.org/10.1007/s11192-022-04289-7
+* Martín-Martín, A., Thelwall, M., Orduna-Malea, E., & Delgado López-Cózar, E. (2021). Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI: a multidisciplinary comparison of coverage via citations. Scientometrics, 126(1), 871-906. https://doi.org/10.1007/s11192-020-03690-4
 * Pranckutė, R. (2021). Web of Science (WoS) and Scopus: The titans of bibliographic information in today’s academic world. Publications, 9(1), 12. https://doi.org/10.3390/publications9010012
 
 ---

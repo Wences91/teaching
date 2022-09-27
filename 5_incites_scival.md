@@ -45,14 +45,42 @@ Las fuentes permiten filtrar por libros, revistas y congresos, admitiendo el uso
 ### 1.1.6. Agencias de financiación
 Es posible deiferenciar entre entidades que han sido financiadas o que publican resultados financiados.
 
-## 1.2. Opciones adicionales
-Agrupar y fijar
+## 1.1.7. Opciones adicionales
+Existen otras opciones disponibles en InCites que son de ayuda para los análisis anteriores.
 
-baselines
++ Grupos: Es posible agrupar varios registros, por ejemplo varios autores que necesitan ser normalizados, un conjunto de univesidades que queremos ver agregadas o una región geográfica concreta.
++ Fijar: Se puede fijar un registro para llevar a cabo comparativas directas con ellos.
++ Baseline: Existe la posibilidad de establecer baselines para ver, por ejemplo, los indicadores globales o de los elementos fijados.
++ Transferencia de registros : Los datos de InCites se pueden transferir a Web of Science y viceversa.
 
-transfrencia WoS - InCites
-
-# 2. Informes
+# 1.2. Informes
 La opción de informes permite obtener informes actualizados y preestablecidos para organizaciones, investigadores y editoriales.
 
 Admiten varios parámetros de búsqueda pero son muy pocos. Algunas visualizaciones solo están disponibles en este modo.
+
+# 1.3. Organización
+Desde este apartado puedes gestionar tus datos y dashboard. El dashboard te permite crear informes a medida desde InCites incluyendo los gráficos de los análisis.
+
+# 2. SciVal
+En SciVal el análisis es similar, pero su metodología varía ligeramente. En lugar de ver directamente todos los indicadores seleccionados para todas las entidades que se ajustan a la búsqueda, hay que escoger un grupo de registros. Es incluso posible comparar diferentes tipos de entidades.
+
+## 2.1. Benchmarking
+Desde la opción de benchmarking se pueden realizar comparaciones en base a indicadores y rankings a diferentes niveles:
++ Instituciones
++ Investigadores
++ Publicaciones
++ Países y regiones
++ Topics y Clusters
++ Áreas de investigación
++ Fuentes
+
+La selección de indicador es más a media, pudiendo seleccionar directamente tipologías documentales, excluir autocitas... De igual manera, a diferencia de InCites se puede observar la evolución por años de un mismo indicador.
+
+---
+
+# Información
+<div class="alert alert-block alert-info">
+    <b>Autor:</b> Wenceslao Arroyo-Machado</br>
+    <b>Fecha de actualización:</b> 28/09/2022</br>
+    <b>GitHub:</b> <a href="https://github.com/Wences91/teaching">https://github.com/Wences91/teaching</a>
+</div>

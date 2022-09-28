@@ -1,3 +1,5 @@
+![InCites](https://raw.githubusercontent.com/Wences91/teaching/main/images/incites_scival/incites.png)
+
 # 1. InCites
 Suite bibliométrica de Clarivate. Ofrece la posibilidad de analizar y generar informes con datos de Web of Science. Incluye tres opciones generales:
 + Análisis
@@ -14,7 +16,7 @@ Permite llevar el análisis bibliométrico a diferentes niveles, pudiendo en tod
 + Fuentes
 + Agencias de financiación
 
-La mayoría ofrece tanto filtros de búsqueda como identificadores comúnes, aunque cada uno cuenta con especifidades.
+La mayoría ofrece tanto filtros de búsqueda como identificadores comúnes, aunque cada uno cuenta con sus especificidades.
 
 ### 1.1.1. Investigadores
 Es posible llevar a cabo análisis bibliométricos a nivel de investigador. Se pueden establecer búsqueda de personas a través de un buscador específico (registro WoS, identificadores, nombre) o mediante los filtros.
@@ -45,13 +47,13 @@ Las fuentes permiten filtrar por libros, revistas y congresos, admitiendo el uso
 ### 1.1.6. Agencias de financiación
 Es posible deiferenciar entre entidades que han sido financiadas o que publican resultados financiados.
 
-## 1.1.7. Opciones adicionales
+### 1.1.7. Opciones adicionales
 Existen otras opciones disponibles en InCites que son de ayuda para los análisis anteriores.
 
-+ Grupos: Es posible agrupar varios registros, por ejemplo varios autores que necesitan ser normalizados, un conjunto de univesidades que queremos ver agregadas o una región geográfica concreta.
-+ Fijar: Se puede fijar un registro para llevar a cabo comparativas directas con ellos.
-+ Baseline: Existe la posibilidad de establecer baselines para ver, por ejemplo, los indicadores globales o de los elementos fijados.
-+ Transferencia de registros : Los datos de InCites se pueden transferir a Web of Science y viceversa.
++ **Grupos**: Es posible agrupar varios registros, por ejemplo varios autores que necesitan ser normalizados, un conjunto de univesidades que queremos ver agregadas o una región geográfica concreta.
++ **Fijar**: Se puede fijar un registro para llevar a cabo comparativas directas con ellos.
++ **Baseline**: Existe la posibilidad de establecer baselines para ver, por ejemplo, los indicadores globales o de los elementos fijados.
++ **Transferencia de registros**: Los datos de InCites se pueden transferir a Web of Science y viceversa.
 
 # 1.2. Informes
 La opción de informes permite obtener informes actualizados y preestablecidos para organizaciones, investigadores y editoriales.
@@ -60,6 +62,8 @@ Admiten varios parámetros de búsqueda pero son muy pocos. Algunas visualizacio
 
 # 1.3. Organización
 Desde este apartado puedes gestionar tus datos y dashboard. El dashboard te permite crear informes a medida desde InCites incluyendo los gráficos de los análisis.
+
+![SciVal](https://raw.githubusercontent.com/Wences91/teaching/main/images/incites_scival/scival.png)
 
 # 2. SciVal
 En SciVal el análisis es similar, pero su metodología varía ligeramente. En lugar de ver directamente todos los indicadores seleccionados para todas las entidades que se ajustan a la búsqueda, hay que escoger un grupo de registros. Es incluso posible comparar diferentes tipos de entidades.

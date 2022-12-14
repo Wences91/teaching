@@ -6,3 +6,4 @@
 2. **Introducción a las principales bases de datos bibliométricas (Web of Science y Scopus)** ([ver en HackMD](https://hackmd.io/@Wences/2_introducción_bibliometría))
 3. **Aprende a descargar datos de Twitter sin programar** ([ver en HackMD](https://hackmd.io/@Wences/3_tweet_downloader))
 4. **Técnicas de búsqueda bibliográficas para la investigación** ([ver en HackMD](https://hackmd.io/@Wences/4_técnicas_búsqueda_bibliográfica))
+5. **Suites bibliométricas** ([ver en HackMD](https://hackmd.io/@Wences/5_incites_scival))

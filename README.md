@@ -7,3 +7,4 @@
 3. **Aprende a descargar datos de Twitter sin programar** ([ver en HackMD](https://hackmd.io/@Wences/3_tweet_downloader))
 4. **Técnicas de búsqueda bibliográficas para la investigación** ([ver en HackMD](https://hackmd.io/@Wences/4_técnicas_búsqueda_bibliográfica))
 5. **Suites bibliométricas** ([ver en HackMD](https://hackmd.io/@Wences/5_incites_scival))
+6. **Comprendiendo y traduciendo la Wikipedia** ([ver en HackMD](https://hackmd.io/@Wences/6_traduciendo_wikipedia))

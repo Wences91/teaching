@@ -71,7 +71,7 @@ En primer lugar, ten en cuenta estas consideraciones previas:
 - No indiques a los autores cuál es tu **decisión final**
 - Si tienes cualquier duda o detectas problemas graves, contacta con el editor 🆘
 
-Una vez considerado esto, recuerda tener claro desde el inicio cuál es el **formato de la revista**. La revista puede contar con un sistema guiado en el que te piden que rellenes un formulario, indiques con una nota numérica su calidad general y la de diferentes apartados..., pero con independencia a ello siempre vas a tener la posibilidad de escribir comentarios dirigidos directamente a los autores (lo ven autores y editor/a) y al editor/a (no lo ven los autores). Dado que estos [comentarios a los autores](https://journals.plos.org/plosone/article/peerReview?id=10.1371/journal.pone.0228713) y al revisor son el punto en común en todas las revisiones, a continuación tienes varias recomendaciones al respecto.
+Una vez considerado esto, recuerda tener claro desde el inicio cuál es el **formato de la revista**. La revista puede contar con un sistema guiado en el que te piden que rellenes un formulario, indiques con una nota numérica su calidad general y la de diferentes apartados..., pero con independencia a ello siempre vas a tener la posibilidad de escribir comentarios dirigidos directamente a los autores (lo ven autores y editor/a) y al editor/a (no lo ven los autores). Dado que estos [comentarios a los autores](https://journals.plos.org/plosone/article/peerReview?id=10.1371/journal.pone.0228713) y al editor son el punto en común en todas las revisiones, a continuación tienes varias recomendaciones al respecto.
 
 ### 2.2.1. Comentarios a los autores
 En los comentarios a los autores has de trasladar tus impresiones y propuestas de cambio a los autores con todo detalle para que puedan **mejorar el trabajo**. Es un documento que está dirigido por completo a ellos 💌.
@@ -84,7 +84,7 @@ El formato en la redacción de los comentarios puede variar, [una propuesta](htt
 3. Listado de problemas menores
 4. Listado de errores tipográficos
 
-### 2.2.2. Comentarios al revisor
+### 2.2.2. Comentarios al editor
 Este suele ser un elemento opcional, reservado sobre todo para situaciones problemáticas (limitaciones graves, conflictos de interés...). No obstante, nunca está de más **comentar brevemente al editor/a** cuál es el resultado de tu revisión para facilitarle su trabajo. Con unas pocas líneas es suficiente.
 
 ## 2.3. Recomendación
@@ -117,6 +117,6 @@ Van Noorden, R. (2020). Hundreds of scientists have peer-reviewed for predatory 
 <div class="alert alert-block alert-info">
     <b>Autor:</b> Wenceslao Arroyo-Machado</br>
     <b>Fecha de actualización:</b> 02/03/2023</br>
-    <b>DOI:</b> </br>
+    <b>DOI:</b> <a href="https://doi.org/10.5281/zenodo.7691925">10.5281/zenodo.7691925</a></br>
     <b>GitHub:</b> <a href="https://github.com/Wences91/teaching">https://github.com/Wences91/teaching</a>
 </div>

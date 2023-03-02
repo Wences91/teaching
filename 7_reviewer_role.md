@@ -59,7 +59,7 @@ Elementos relevantes de cada sección del paper a considerar en la revisión
 | *Discusión* | ¿Son puestos en relieve los resultados?, ¿se comparan estos resultados con los de otros trabajos?, ¿se destacan las limitaciones? |
 
 
-# 2.2. Redacción del informe
+## 2.2. Redacción del informe
 En primer lugar, ten en cuenta estas consideraciones previas:
 - Tu papel es revisar para la revista, no ser un *gatekeeper* 🥅 
 - Nunca olvides que este **no es tu trabajo**, recomienda mejoras pero no trates de reelaborarlo a tu semejanza
@@ -87,7 +87,7 @@ El formato en la redacción de los comentarios puede variar, [una propuesta](htt
 ### 2.2.2. Comentarios al revisor
 Este suele ser un elemento opcional, reservado sobre todo para situaciones problemáticas (limitaciones graves, conflictos de interés...). No obstante, nunca está de más **comentar brevemente al editor/a** cuál es el resultado de tu revisión para facilitarle su trabajo. Con unas pocas líneas es suficiente.
 
-# 2.3. Recomendación
+## 2.3. Recomendación
 Al final tendrás que mojarte e indicar si el trabajo está listo para su publicación, requiere cambios menores/mayores o debe ser rechazado. Ante todo, ten en cuenta cuál el estado del trabajo, lo que aporta al campo, sus limitaciones y la revista para la que revisas. No tengas miedo al decidir si has hecho una profunda revisión, ten en cuenta que se trata de una de varias recomendaciones y la decisión final siempre la tiene el editor.
 
 # 3. Reconocimiento

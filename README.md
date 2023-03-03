@@ -8,4 +8,4 @@
 4. **Técnicas de búsqueda bibliográficas para la investigación** ([ver en HackMD](https://hackmd.io/@Wences/4_técnicas_búsqueda_bibliográfica))
 5. **Suites bibliométricas** ([ver en HackMD](https://hackmd.io/@Wences/5_incites_scival))
 6. **Comprendiendo y traduciendo la Wikipedia** ([ver en HackMD](https://hackmd.io/@Wences/6_traduciendo_wikipedia))
-7. **The reviewer ‘s role: ¿Cómo afrontar la revisión de un paper?** ([ver en HackMD](https://hackmd.io/@Wences/7_reviewer_role))
+7. **The reviewer ‘s role: ¿Cómo afrontar la revisión de un paper?** ([ver en HackMD](https://hackmd.io/@Wences/7_reviewer_role)) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7691925.svg)](https://doi.org/10.5281/zenodo.7691925)

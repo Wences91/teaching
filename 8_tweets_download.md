@@ -1,5 +1,5 @@
 # Taller 2. Recuperación de tuits ~~con Tweet Downloader~~ y análisis de datos
-Nota: inicialmente este curso iba a estar centrado en [Tweet Downloader](https://developer.twitter.com/apitools/downloader). Pero vivimos en tiempos convulsos y desde [enero](https://twittercommunity.com/t/tweet-downloader-did-not-work/183125) no hay rastro de tal aplicación y no se la espera. La solución a este problema, lejos de rendirnos 😔, es explorar las diferentes alternativas para todos los niveles 👨‍👩‍👧.
+<div class="alert alert-block alert-warning"><b>Nota</b>: Nota: inicialmente este curso iba a estar centrado en <a href="https://developer.twitter.com/apitools/downloader">Tweet Downloader</a>. Pero vivimos en tiempos convulsos y desde <a href="https://twittercommunity.com/t/tweet-downloader-did-not-work/183125">enero</a> no hay rastro de tal aplicación y no se la espera. La solución a este problema, lejos de rendirnos 😔, es explorar las diferentes alternativas para todos los niveles 👨‍👩‍👧.</div>
 
 <center><img src="https://raw.githubusercontent.com/Wences91/teaching/main/images/tweet_downloader/tweet_downloader_error.JPG"></img></center>
 
@@ -157,3 +157,12 @@ Este es una de las muchas herramientas que permiten hacer web scraping 🕷️. 
 
 ## 3.6. Twitter Scraper
 Esta aplicación es específica de Google Chrome y simplifica el proceso, permitiendo hacer scraping de los tuits de usuarios concretos.
+
+---
+
+# Información
+<div class="alert alert-block alert-info">
+    <b>Autor:</b> Wenceslao Arroyo-Machado</br>
+    <b>Fecha de actualización:</b> 21/03/2023</br>
+    <b>GitHub:</b> <a href="https://github.com/Wences91/teaching">https://github.com/Wences91/teaching</a>
+</div>

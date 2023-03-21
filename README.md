@@ -9,3 +9,4 @@
 5. **Suites bibliométricas** ([ver en HackMD](https://hackmd.io/@Wences/5_incites_scival))
 6. **Comprendiendo y traduciendo la Wikipedia** ([ver en HackMD](https://hackmd.io/@Wences/6_traduciendo_wikipedia))
 7. **The reviewer ‘s role: ¿Cómo afrontar la revisión de un paper?** ([ver en HackMD](https://hackmd.io/@Wences/7_reviewer_role)) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7691925.svg)](https://doi.org/10.5281/zenodo.7691925)
+8. **Taller 2. Recuperación de tuits con Tweet Downloader y análisis de datos** ([ver en HackMD](https://hackmd.io/@Wences/8_tweets_download))

@@ -5,13 +5,13 @@
 
 Has terminado de redactar la tesis y toca hacer el depósito **¡ERROR!**
 
-El depósito de la tesis es un proceso que comienza meses antes de su realización, son muchos los elementos a considerar. Necesitas contar con los datos y firmas de diferentes personas, además de ajustarte al calendario de la EIP.
+El depósito de la tesis es un proceso que comienza meses antes de su realización, son muchos los elementos a considerar. Necesitas contar con los datos y firmas de diferentes personas, además de ajustarte al calendario de la Escuela Internacional de Posgrado (EIP).
 
 No pierdas de vista la [Guía sobre depósito y defensa de la tesis doctoral en la Universidad de Granada](https://escuelaposgrado.ugr.es/doctorado/estudiantes/deposito/deposito_tesis).
 
 Por eso, vayamos con calma.
 
-# 1. Agenda una fecha
+# 1. Márcate una agenda
 La tesis puedes depositarla en cualquier momento, pero la evaluación por parte de la comisión de las escuelas de doctorado solo se realiza una vez al mes. Además, para que su evaluación se realice el depósito debe realizarse mínimo **15 días naturales antes** de que tenga lugar:
 + [Escuela de Doctorado de Ciencias de la Salud (EDCS)](https://escuelaposgrado.ugr.es/doctorado/escuelas/edcs/pages/estructura)
 + [Escuela de Doctorado de Ciencias, Tecnologías e Ingenierías (EDCTI)](https://escuelaposgrado.ugr.es/doctorado/escuelas/edcti/pages/estructura)
@@ -19,10 +19,19 @@ La tesis puedes depositarla en cualquier momento, pero la evaluación por parte 
 
 Trata de marcarte una fecha de depósito de acuerdo a este calendario.
 
+## 1.1. Fecha de la defensa
+La defensa de la tesis se debe realizar en un plazo máximo de **3 meses** desde que se realiza el depósito. La fecha y lugar de la defensa las **escoges tú**. No obstante, en el proceso del depósito de la tesis, no te corresponde a ti indicarlo sino que le llegará dicha solicitud a la persona del tribunal que seleccionemos como secretaria/o una vez depositemos.
+
+Es importante por ello que con esa persona hablemos previamente para que esté atenta a tal petición por parte de la EIP.
+
+**IMPORTANTE**: El depósito puede hacerse el último día de permanencia.
+
 # 2. Controla toda la documentación
 Son varios los documentos que vas a necesitar, los cuales pueden variar en función del tipo de tesis. Para no perderte nada, lo recomendable es tener un pequeño borrador a modo de seguimiento. Este fue [el mio](https://docs.google.com/document/d/1NYCCkPW2TPOyy9pc6x2Qn2UgsK-aBsMmJk6wwTdIvyE/edit).
 
 Esto son los documentos que vas a necesitar preparar en el "peor" de los casos:
+
+0. TESEO
 1. Tesis
 2. Compromiso de respeto de los derechos de autor
 3. Resultados de la Tesis
@@ -39,9 +48,11 @@ Esto son los documentos que vas a necesitar preparar en el "peor" de los casos:
 14. Informe de experto 2 (Juan)
 15. Informe del director de la Tesis respecto a la idoneidad de la presentación de la Tesis bajo esta modalidad
 16. Indicios de calidad de cada uno de las publicaciones incluidas en el documento de tesis
-17. Aceptación/ Renuncia de los coautores de las publicaciones 
+17. Aceptación/ Renuncia de los coautores de las publicaciones
 
 Muchos son [impresos ya creados](https://escuelaposgrado.ugr.es/doctorado/impresos/tesis) que debes descargar y rellenar
+
+## 1.0. TESEO
 
 ## 1.1. Tesis
 Memoria de tu tesis. Aquí no hay muchas directrices en cuanto al formato, pero sí que debe figurar una página con toda la información relativa a la Universidad de Granada, EIP, directoras/es... [Esta es mi página 3](https://hdl.handle.net/10481/84688).

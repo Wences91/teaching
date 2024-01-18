@@ -54,6 +54,15 @@ Puedes usar Tableau Public de dos maneras:
 + [Online](https://public.tableau.com/) - Trabaja desde tu navegador
 + [Desktop](https://www.tableau.com/es-es/products/public/download) - Instala una aplicación en tu ordenador
 
+# Forma de trabajo
+Tableau cuenta con una interfaz basada en hojas, como Excel. El proceso de trabajo es sencillo y se compone de los siguientes pasos:
+1. **Conexión a datos**: Conectas Tableau a una o varias fuentes de datos. Esto puede ser una base de datos, un archivo como Excel, o incluso servicios en la nube. 
+2. **Exploración y preparación de datos**: Una vez conectado, puedes explorar los datos y realizar ajustes o limpieza si es necesario. Esto incluye tareas como filtrar, clasificar, o crear nuevas variables.
+3. **Creación de visualizaciones**:
+    + *Hojas de trabajo*: Aquí es donde creas visualizaciones individuales.
+    + *Dashboards*: Aquí puedes combinar diferentes tipos de gráficos y tablas para contar una historia más completa con tus datos.
+    + *Historias*: Una historia en Tableau es una secuencia de hojas de trabajo y dashboards que guían al espectador a través de una narrativa o un flujo de análisis específico. 
+4. **Compartir resultados**: Finalmente, puedes compartir las visualizaciones resultantes. Tableau permite publicar visualizaciones en hojas de trabajo, dashboards o historias en Tableau Server o Tableau Online, facilitando el acceso a otros usuarios para que puedan interactuar con las visualizaciones.
 
 # Recursos
 https://help.tableau.com/current/pro/desktop/es-es/default.htm

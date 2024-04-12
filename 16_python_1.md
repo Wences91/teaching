@@ -34,7 +34,7 @@ Un Entorno de Desarrollo Integrado (IDE en inglés) es una aplicación que propo
 - **Google Colab** ofrece un entorno de notebooks en la nube con recursos gratuitos de computación.
 - **Spyder** está diseñado específicamente para científicos de datos y ofrece integración directa con bibliotecas de análisis de datos.
 
-## **3. Fundamentos de Python
+## **3. Fundamentos de Python**
 Para aprender Python en profundidad y de base, es necesaria una mayor dedicación. Estos son algunos cursos recomendados para personas que vayan a comenzar desde cero:
 - [Learn Python](https://www.learnpython.org/)
 - [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)

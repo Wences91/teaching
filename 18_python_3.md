@@ -10,7 +10,7 @@ Esta sesión cubre técnicas principales de Pandas, incluyendo joins, búsqueda 
 Los joins son esenciales para combinar DataFrames en base a una o más claves con `merge()`. El parámetro `how` indica cómo se hará el join (left, right, inner o outer).
 
 ```python
-# Inner Join
+# Inner join
 df_inner = pd.merge(df1, df2, on='key', how='inner')
 ```
 
